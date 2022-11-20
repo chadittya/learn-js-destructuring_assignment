@@ -95,7 +95,7 @@ const MHS = {
 };
 
 function getIDMhs({ id }) {
-  //object mhs dibongkar dulu disini
+  //object mhs dibongkar dulu disini untuk mendapatkan id
   return id;
 }
 
